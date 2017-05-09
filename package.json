@@ -1,0 +1,27 @@
+{
+  "name": "magical_battle_mocha",
+  "version": "1.0.0",
+  "description": "On the battlefield, Unicorns, Wearwolves, Dragons, and T-Rex's do battle. Your job is to model the four animals with a common interface: `battle(other)` and return if the animal wins the battle.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miamiruby/tdd_magical_battle_mocha.git"
+  },
+  "keywords": [
+    "Javascript"
+  ],
+  "author": "Paul Kruger",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/miamiruby/tdd_magical_battle_mocha/issues"
+  },
+  "homepage": "https://github.com/miamiruby/tdd_magical_battle_mocha#readme",
+  "devDependencies": {
+    "babel": "^6.23.0",
+    "chai": "^3.5.0",
+    "mocha": "^3.3.0"
+  }
+}
